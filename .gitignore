@@ -1,0 +1,10 @@
+# Copias de seguridad automáticas de Eagle
+*.b#?
+*.s#?
+*.l#?
+*.b$?
+*.s$?
+# Otros temporales
+*.bak
+~$*
+.DS_Store
