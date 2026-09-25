@@ -1,4 +1,4 @@
-# Sallen-Key Butterworth Low-Pass Filter — PCB Design and Fabrication
+# Sallen-Key Butterworth Low-Pass Filter — PCB Design and Fabrication m
 
 <p align="center">
   <img src="docs/img/board_top.jpg" alt="Assembled filter PCB" width="45%">
